@@ -1,6 +1,6 @@
 """
 Written by Kaleb R. Horvath
-           Taylor R. Sova
+           Taylor A. Sova
            Raymond J. Beisner
            
 November 11th, 2017
