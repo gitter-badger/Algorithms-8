@@ -14,3 +14,10 @@ print nl
 # wrapper for the above code
 
 def subsort(list):
+    nl = []
+    for i in range(len(list)):
+        a = min(s)
+        nl.append(a)
+        s.remove(a)
+    return nl
+
