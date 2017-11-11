@@ -5,10 +5,10 @@ sorting algorithms.
 ## Testing the Sub-Sort Algorithm ##
 The common Sub-Sort Algorithm is one of the fastest sorting algos.
 ```python
-import numpy as np
+from numpy.random import rand as r
 import subsort
 
-x = np.random.rand(3, 2)
+x = r(3, 2)
 
 x = subsort.subsort(x)
 print(x)
