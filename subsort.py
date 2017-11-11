@@ -4,7 +4,7 @@ Kaleb R. Horvath
 November 11th, 2017 (START)
 November 11th, 2017 (END)
 7:09 AM (START)
-7:__ AM (END)
+7:26 AM (END)
 ---------------------
 A sorting algorithm
 written in Python 3.
