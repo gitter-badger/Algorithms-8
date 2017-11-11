@@ -6,11 +6,11 @@ sorting algorithms.
 The common Sub-Sort Algorithm is one of the fastest sorting algos.
 ```python
 from numpy.random import rand as r
-import subsort
+from subsort import subsort as s
 
 x = r(3, 2)
 
-x = subsort.subsort(x)
+x = s(x)
 print(x)
 
 ```
