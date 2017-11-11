@@ -4,7 +4,7 @@ Kaleb R. Horvath
 November 11th, 2017 (START)
 November 11th, 2017 (END)
 9:39 AM (START)
-9:__ AM (END)
+9:48 AM (END)
 ---------------------------
 A simple sorting algorithm
 meant for creating dependency
