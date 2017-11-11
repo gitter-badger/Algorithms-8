@@ -20,6 +20,14 @@ Notes:
 You may assume both pattern and str contains only lowercase letters.
 """
 
+def pattern_match(pattern, string):
+    """
+    :type pattern: str
+    :type string: str
+    :rtype: bool
+    """
+return backtrack(pattern, string, {})
+
 def backtrack(pattern, string, dic):
     print(dic)
     if len(pattern) == 0 and len(string) > 0:
