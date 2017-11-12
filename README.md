@@ -6,4 +6,6 @@ These are some of the catagories:
   * Pattern Matching Algorithms
   * Tree Construction Algorithms
   * Matrices Algorithms
+  * Stack Algorithms
+  
   
