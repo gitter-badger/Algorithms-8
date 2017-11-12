@@ -1,4 +1,3 @@
-
 class QStack(object):
     def __init__(self, data):
         self.stack = tuple(data)
@@ -22,5 +21,5 @@ class QStack(object):
           if X==query:
             results.append(X)
         return pos, data, results
-      
-        
+    def copy(self):
+        return list(self.stack)
